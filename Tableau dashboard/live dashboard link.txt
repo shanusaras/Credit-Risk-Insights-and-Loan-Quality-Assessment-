@@ -1,0 +1,7 @@
+live dashboard link (Best viewed on desktop; some web formatting may vary):
+
+https://public.tableau.com/views/LoanRiskAnalyticsandPerformanceInsights/SUMMARY?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+pdf link:
+
+https://drive.google.com/file/d/1XUPDpk_3L7l-bGHrwey1R8uNhiNm4top/view?usp=drive_link
