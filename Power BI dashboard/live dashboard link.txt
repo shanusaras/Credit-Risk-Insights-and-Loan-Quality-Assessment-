@@ -2,3 +2,6 @@ live dashboard link:
 
 https://app.powerbi.com/view?r=eyJrIjoiM2JhYWY1NWEtOGJlYy00MTc3LTliZWEtOWY2NTA1NTA1NWFhIiwidCI6ImM1NjAwNTllLTNiODktNDE3YS04ZmQxLWRhZTQzOWE5Nzk5NyJ9
 
+pdf link:
+
+https://drive.google.com/file/d/1nYPPn1E-kIMMaeZNhcCJE43kFf3h9sVs/view?usp=drive_link
