@@ -4,7 +4,7 @@
 **Loan Risk Analysis and Performance Insights**  
 This project provides a comprehensive analysis of loan data to identify risk patterns, understand borrower behavior, and recommend data-driven solutions to improve financial decision-making.
 
----
+
 
 ## **2. Executive Summary**  
 ### **Objective**  
