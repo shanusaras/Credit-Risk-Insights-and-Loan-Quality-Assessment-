@@ -16,7 +16,7 @@ This project leverages a range of tools and platforms commonly required in data 
 - **Excel**: For data cleaning, analysis, and dashboarding.  
 - **Power BI & Tableau**: For creating interactive dashboards and visualizations to communicate insights effectively.  
 
----
+
 
 ## **3. Business Problem**  
 ### **Problem Identification**  
@@ -30,7 +30,7 @@ Understanding these patterns helps banks:
 - Optimize loan pricing strategies.  
 - Improve customer segmentation and targeting.  
 
----
+
 
 ## **4. Methodology**  
 ### **Data Cleaning & Transformation**  
@@ -45,7 +45,7 @@ Understanding these patterns helps banks:
   - Loan performance by region, grade, and purpose.  
   - Trends in loan applications and funding over time.  
 
----
+
 
 ## **5. Skills**  
 ### **Tools, Languages, & Software**  
@@ -55,7 +55,7 @@ Understanding these patterns helps banks:
 
 This project demonstrates proficiency across all tools commonly expected in data analyst roles, showcasing a well-rounded skill set for data querying, cleaning, analysis, and visualization.  
 
----
+
 
 ## **6. Results & Business Recommendation**  
 ### **Business Impact**  
@@ -75,7 +75,7 @@ Interactive dashboards in Power BI and Tableau provided:
 - Geographical breakdown of loan applications.  
 - Trends in loan term preferences and borrower profiles.  
 
----
+
 
 ## **7. Next Steps**  
 ### **Future Work**  
