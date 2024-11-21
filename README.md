@@ -4,7 +4,7 @@
 **Loan Risk Analysis and Performance Insights**  
 This project explores the  loan data to uncover risk patterns, understand borrower behavior, and provide actionable recommendations to improve loan performance and financial decision-making.
 
----
+
 
 ## **2. Executive Summary**  
 ### **Objective**  
@@ -16,7 +16,7 @@ To demonstrate versatility as a data analyst, I used a range of tools:
 - **Excel**: For cleaning, exploring, and building initial dashboards.  
 - **Power BI & Tableau**: To create professional, interactive dashboards for better storytelling and data presentation.  
 
----
+
 
 ## **3. Business Problem**  
 ### **Problem Identification**  
@@ -45,7 +45,7 @@ By addressing these challenges, financial institutions can:
   - Loan performance by region and grade.  
   - Trends in loan applications, funding, and repayment.  
 
----
+
 
 ## **5. Skills Highlighted**  
 ### **Tools and Technologies**  
@@ -55,7 +55,7 @@ By addressing these challenges, financial institutions can:
 
 This project reflects my ability to work across all essential tools for a data analyst, showcasing skills in querying, cleaning, analysis, and storytelling with data.
 
----
+
 
 ## **6. Results & Recommendations**  
 ### **Findings**  
