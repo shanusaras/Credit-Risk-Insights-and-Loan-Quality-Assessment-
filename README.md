@@ -4,8 +4,6 @@
 [View Interactive Tableau Dashboard](https://public.tableau.com/views/LoanRiskAnalyticsandPerformanceInsights/SUMMARY?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) *(Best viewed on desktop; some web formatting may vary)*
 
 
-This project explores loan data to uncover risk patterns, understand borrower behavior, and provide actionable recommendations to improve loan performance and financial decision-making.
-
 ## **1. Project Title**  
 **Loan Risk Analysis and Performance Insights**  
 This project explores the  loan data to uncover risk patterns, understand borrower behavior, and provide actionable recommendations to improve loan performance and financial decision-making.
