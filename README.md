@@ -1,6 +1,6 @@
 # **Loan Risk Analysis and Performance Insights**
 
-[View Interactive Power BI Dashboard]((https://project.novypro.com/0rX4aj))
+[View Interactive Power BI Dashboard](https://project.novypro.com/0rX4aj)
 
 This project explores loan data to uncover risk patterns, understand borrower behavior, and provide actionable recommendations to improve loan performance and financial decision-making.
 
