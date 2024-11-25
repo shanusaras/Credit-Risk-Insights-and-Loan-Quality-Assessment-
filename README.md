@@ -1,7 +1,8 @@
 # **Loan Risk Analysis and Performance Insights**
 
 [View Interactive Power BI Dashboard](https://project.novypro.com/0rX4aj)
-[View Interactive Tableau Dashboard]([https://project.novypro.com/0rX4aj](https://public.tableau.com/views/LoanRiskAnalyticsandPerformanceInsights/SUMMARY?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/LoanRiskAnalyticsandPerformanceInsights/SUMMARY?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 This project explores loan data to uncover risk patterns, understand borrower behavior, and provide actionable recommendations to improve loan performance and financial decision-making.
 
