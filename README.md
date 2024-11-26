@@ -15,7 +15,7 @@ This project explores the  loan data to uncover risk patterns, understand borrow
 The goal of this project is to analyze loan performance data, identify patterns that contribute to loan risks, and provide insights to help financial institutions make smarter decisions while minimizing defaults.  
 
 ### **Context**  
-To demonstrate versatility as a data analyst, I used a range of tools:  
+I used a range of tools to get a comprehensive picture of the analysis:  
 - **MySQL**: To extract and query the data.  
 - **Excel**: For cleaning, exploring, and building initial dashboards.  
 - **Power BI & Tableau**: To create professional, interactive dashboards for better storytelling and data presentation.  
